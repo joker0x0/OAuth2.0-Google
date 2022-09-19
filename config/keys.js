@@ -6,9 +6,9 @@ module.exports = {
         clientSecret: '',
     },
     mongoDB: {
-        dbURI: 'mongodb://localhost:27017/oauth-passport'
+        dbURI: ''
     },
     session: {
-        cookieKey: 'roshdyessam'
+        cookieKey: ''
     }
 }
